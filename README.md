@@ -9,7 +9,7 @@ Manual implementation and optimisation of the :
 
 ![image](https://github.com/mouralisandra/ArtificialIntelligenceLabs/assets/98917826/6cf43b3f-2042-48f2-86a2-175560f9ea18)
 
-*Comparison of the different search algorithms in proportion to the grid side of the Sliding Puzzle game : 
+* Comparison of the different search algorithms in proportion to the grid side of the Sliding Puzzle game : 
 
 ![image](https://github.com/mouralisandra/ArtificialIntelligenceLabs/assets/98917826/532ffe41-814c-44fc-a7d7-a462a78bbd82)
 
